@@ -139,8 +139,8 @@ publish:
   velsensorsetup: false
   exteventinsnavcart: false
   exteventinsnavgeod: false
-  imu: false
-  localization: false
+  imu: true
+  localization: true
   tf: false
   localization_ecef: false
   tf_ecef: false
